@@ -1,0 +1,871 @@
+﻿[
+  
+  {
+    
+     "name": "Лаврова В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 07:30:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 09:00:00",
+        
+           "stop": "October 25, 2018 10:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Смирнова В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 12:30:00",
+        
+           "stop": "October 25, 2018 13:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782452",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 18:00:00",
+        
+           "stop": "October 25, 2018 20:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Петров В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff26",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 06:00:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 13:00:00",
+        
+           "stop": "October 25, 2018 17:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Лапухов В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 07:30:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 09:00:00",
+        
+           "stop": "October 25, 2018 10:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Смолин В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 12:30:00",
+        
+           "stop": "October 25, 2018 13:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782452",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 18:00:00",
+        
+           "stop": "October 25, 2018 20:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Ингушев В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff26",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 06:00:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 13:00:00",
+        
+           "stop": "October 25, 2018 17:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+  {
+    
+     "name": "Ласточкин В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 07:30:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 09:00:00",
+        
+           "stop": "October 25, 2018 10:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Измаилов В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 12:30:00",
+        
+           "stop": "October 25, 2018 13:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782452",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 18:00:00",
+        
+           "stop": "October 25, 2018 20:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Федученко В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff26",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 06:00:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 13:00:00",
+        
+           "stop": "October 25, 2018 17:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Смолин В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 07:30:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 09:00:00",
+        
+           "stop": "October 25, 2018 10:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Лаврентьев В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 12:30:00",
+        
+           "stop": "October 25, 2018 13:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782452",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 18:00:00",
+        
+           "stop": "October 25, 2018 20:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Конюхов В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff26",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 06:00:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 13:00:00",
+        
+           "stop": "October 25, 2018 17:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Серегин В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 07:30:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 09:00:00",
+        
+           "stop": "October 25, 2018 10:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Мидин В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff94",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 12:30:00",
+        
+           "stop": "October 25, 2018 13:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782452",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 18:00:00",
+        
+           "stop": "October 25, 2018 20:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  },
+ 
+  {
+    
+     "name": "Пончикова В. Ф.",
+    
+     "status": "In Work",
+    
+     "color": "#21ff26",
+    
+     "fcolor": "black",
+    
+     "tasks": 
+    
+     [
+      
+        {
+        
+           "id"  :  "1",
+       
+           "name": "Заказать оборудование", 
+        
+           "start": "October 25, 2018 06:00:00",
+        
+           "stop": "October 25, 2018 08:00:00",
+        
+           "event": "nameFunc",
+        
+           "baseColor": "#782222",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+        },
+      
+        {
+        
+           "id" : "2",
+        
+           "name": "Оплатить счет",
+        
+           "start": "October 25, 2018 13:00:00",
+        
+           "stop": "October 25, 2018 17:00:00",
+        
+           "event": "showName",
+        
+           "baseColor": "#661111",
+        
+           "fcolor": "black",
+        
+           "connect": [] 
+      
+       }
+    
+    ]
+  
+  }
+]
